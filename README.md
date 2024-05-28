@@ -18,4 +18,4 @@ Health Monitoring and Analysis involves systematically using health data to trac
 - <b>Pandas</b>
 - <b>seaborn</b>
 
- ### [Click to visit code](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/Quantitative%20Analysis%20of%20Stock%20Market.ipynb)
+ ### [Click to visit code](https://github.com/KFrimps/Health-Monitoring-and-Analysis/blob/main/Health%20Monitoring%20and%20Analysis.ipynb)
